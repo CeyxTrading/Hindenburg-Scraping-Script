@@ -1,2 +1,3 @@
 # Hindenburg-Scraping-Script
-Scraping the Hidenburg Stock Release and entering a short position
+Scraping the Hindenburg Stock Release and entering a short position
+Coming soon
